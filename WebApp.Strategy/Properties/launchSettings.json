@@ -15,7 +15,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "BaseProject": {
+    "WebApp.Strategy": {
       "commandName": "Project",
       "dotnetRunMessages": "true",
       "launchBrowser": true,
